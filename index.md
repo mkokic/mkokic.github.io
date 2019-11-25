@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/mkokic/mkokic.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a PhD student at KTH Royal Institute of Technoloy, Robotics, Perception and Learning Lab and my supervisor is Danica Kragic. My research is about modelling hand-object interactions and robot grasping. Concretely, I develop methods and apply deep learning to teach a robot how to grasp and manipulate objects from simulation and from human demonstration.
 
 ### Markdown
 
