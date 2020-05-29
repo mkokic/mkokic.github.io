@@ -10,4 +10,9 @@ I am a PhD student at KTH Royal Institute of Technoloy, Robotics, Perception and
 
 [3]  Mia Kokic, Danica Kragic, Jeannette Bohg, Learning to Estimate Pose and Shape of Hand-Held Objects from RGB Images, <em> 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019) </em>, [<a href="https://arxiv.org/abs/1903.03340">pdf</a>]
 
-[4]  Mia Kokic, Danica Kragic, Jeannette Bohg, Learning Task-Oriented Grasping from Human Activity Datasets, <em>arXiv preprint</em>, [<a href="https://arxiv.org/abs/1910.11669">pdf</a>]
+[4]  Mia Kokic, Danica Kragic, Jeannette Bohg, Learning Task-Oriented Grasping from Human Activity Datasets, <em>IEEE Robotics and Automation Letters 5 (2), 3352-3359</em>, [<a href="https://arxiv.org/abs/1910.11669">pdf</a>]
+
+## News
+May 2020: I will be a speaker at <a href="https://vortenzi.wixsite.com/metricmaniptask">ICRA workshop</a> <em> Shaping the quality metric of a grasp with the manipulation task: grasping as a sub-action of object manipulation.</em>
+
+April 2020: I was featured in <a href="https://www.youtube.com/watch?v=HQDBiIYs_fY">VICE documentary</a> about Swedish digital revolution 
